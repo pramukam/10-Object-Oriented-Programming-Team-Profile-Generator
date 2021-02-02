@@ -36,7 +36,18 @@ Pramuka
 
 ## Test
 
-Please refere below screenshots
+Please refere below vidoe link and the screen shots
+
+video link
+
+https://drive.google.com/file/d/17m5GaPsTBvmSQI3dNlw_hxbHW0RDZ2AY/view
+
+screenshots
+
+![Image of terminal](https://github.com/pramukam/10-Object-Oriented-Programming-Team-Profile-Generator/blob/master/Assets/Terminal.png)
+
+![Image of web](https://github.com/pramukam/10-Object-Oriented-Programming-Team-Profile-Generator/blob/master/Assets/Web.png)
+
 
 ## Repository
 
